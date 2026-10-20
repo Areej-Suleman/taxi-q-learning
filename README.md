@@ -34,7 +34,7 @@ Run all nine training sessions and regenerate model, plots and GIF:
 python main.py
 ```
 
-Open the notebook in Jupyter or VS Code and Run All to regenerate notebook outputs as well. The notebook calls the full experiment and does not require a separate main.py run. On Windows, see START_HERE.md for exact virtual-environment commands. The report is a static snapshot of the included experiment and is not overwritten by training.
+
 
 ## Experimental design
 
