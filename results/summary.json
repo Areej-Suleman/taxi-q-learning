@@ -1,0 +1,136 @@
+{
+  "selected_alpha": 0.5,
+  "selection_scores": {
+    "0.01": -197.86444444444447,
+    "0.1": -33.73555555555556,
+    "0.5": 7.932222222222222
+  },
+  "test_trained": {
+    "mean_return": 7.973333333333334,
+    "success_rate": 1.0,
+    "mean_steps": 13.026666666666667,
+    "episodes": 300
+  },
+  "test_random": {
+    "mean_return": -764.49,
+    "success_rate": 0.03666666666666667,
+    "mean_steps": 196.82,
+    "episodes": 300
+  },
+  "demo": {
+    "seed": 2026,
+    "return": 14,
+    "steps": 7,
+    "success": true
+  },
+  "validation": [
+    {
+      "alpha": 0.01,
+      "seed": 42,
+      "early_validation_return": -196.44333333333336,
+      "final_validation": {
+        "episode": 10000,
+        "mean_return": -88.7,
+        "success_rate": 0.53,
+        "mean_steps": 99.83,
+        "episodes": 100
+      }
+    },
+    {
+      "alpha": 0.01,
+      "seed": 43,
+      "early_validation_return": -198.58,
+      "final_validation": {
+        "episode": 10000,
+        "mean_return": -92.85,
+        "success_rate": 0.51,
+        "mean_steps": 103.56,
+        "episodes": 100
+      }
+    },
+    {
+      "alpha": 0.01,
+      "seed": 44,
+      "early_validation_return": -198.57000000000002,
+      "final_validation": {
+        "episode": 10000,
+        "mean_return": -86.62,
+        "success_rate": 0.54,
+        "mean_steps": 97.96,
+        "episodes": 100
+      }
+    },
+    {
+      "alpha": 0.1,
+      "seed": 42,
+      "early_validation_return": -30.319999999999997,
+      "final_validation": {
+        "episode": 10000,
+        "mean_return": 8.16,
+        "success_rate": 1.0,
+        "mean_steps": 12.84,
+        "episodes": 100
+      }
+    },
+    {
+      "alpha": 0.1,
+      "seed": 43,
+      "early_validation_return": -32.336666666666666,
+      "final_validation": {
+        "episode": 10000,
+        "mean_return": 8.16,
+        "success_rate": 1.0,
+        "mean_steps": 12.84,
+        "episodes": 100
+      }
+    },
+    {
+      "alpha": 0.1,
+      "seed": 44,
+      "early_validation_return": -38.550000000000004,
+      "final_validation": {
+        "episode": 10000,
+        "mean_return": 8.16,
+        "success_rate": 1.0,
+        "mean_steps": 12.84,
+        "episodes": 100
+      }
+    },
+    {
+      "alpha": 0.5,
+      "seed": 42,
+      "early_validation_return": 8.16,
+      "final_validation": {
+        "episode": 10000,
+        "mean_return": 8.16,
+        "success_rate": 1.0,
+        "mean_steps": 12.84,
+        "episodes": 100
+      }
+    },
+    {
+      "alpha": 0.5,
+      "seed": 43,
+      "early_validation_return": 7.476666666666667,
+      "final_validation": {
+        "episode": 10000,
+        "mean_return": 8.16,
+        "success_rate": 1.0,
+        "mean_steps": 12.84,
+        "episodes": 100
+      }
+    },
+    {
+      "alpha": 0.5,
+      "seed": 44,
+      "early_validation_return": 8.16,
+      "final_validation": {
+        "episode": 10000,
+        "mean_return": 8.16,
+        "success_rate": 1.0,
+        "mean_steps": 12.84,
+        "episodes": 100
+      }
+    }
+  ]
+}
