@@ -17,7 +17,7 @@ A from-scratch tabular Q-learning agent for passenger pickup and delivery using 
 | `results/summary.json` | Measured validation and test metrics |
 | `results/training_history.json` | Per-episode returns and validation checkpoints |
 | `technical_report.pdf` | Technical report within the four-page limit |
-| `START_HERE.md` | Windows, VS Code, GitHub Desktop and viva guide |
+
 
 ## Run
 
